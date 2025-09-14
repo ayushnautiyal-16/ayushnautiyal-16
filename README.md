@@ -1,4 +1,3 @@
-# 💫 About Me:
 🎓 I’m a B.Sc. IT student passionate about learning and experimenting with new technologies.<br>💻 Exploring Web Development, Backend Systems, and Emerging Tech.<br>🚀 Love building projects that help me improve my programming and problem-solving skills.<br>🌱 Currently learning and working with modern frameworks & tools.<br>🤝 Open to collaborating on exciting projects and sharing knowledge.
 
 
