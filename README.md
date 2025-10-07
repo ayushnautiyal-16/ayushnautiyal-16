@@ -2,6 +2,16 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+I am currently pursuing my **B.Sc. in IT** from **Uttaranchal University, Dehradun**, and I have a deep passion for **Software Development** and **exploring new technologies**.
+
+- 🔭 I'm always on the lookout for new tools, frameworks, and innovations that can enhance my development skills.
+- 🌱 Currently, I am focused on mastering **Web Development** and building exciting projects.
+- 💬 Feel free to reach out to me at **ayushnautiyal75098@gmail.com**
+
+Let's **connect and collaborate** on projects!re, I'm Ayush Nautiyal!
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 I am currently pursuing my **B.Sc. in IT** from **Uttarakhand**, and I have a deep passion for **Software Development** and **exploring new technologies**.
 
 - � I'm always on the lookout for new tools, frameworks, and innovations that can enhance my development skills.
@@ -40,6 +50,16 @@ Let's **connect and collaborate** on projects!
 ![](https://github-readme-stats.vercel.app/api?username=ayushnautiyal-16&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayushnautiyal-16&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushnautiyal-16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+## 💡 LeetCode Stats:
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ayushnautiyal16?theme=dark&font=Ubuntu&ext=heatmap)](https://leetcode.com/ayushnautiyal16)
 
 </div>
 
